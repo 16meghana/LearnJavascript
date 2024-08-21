@@ -1,2 +1,2 @@
 # LearnJavascript
-Learning Javascript
+Calculator using HTML,CSS,JS
